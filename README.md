@@ -1,8 +1,6 @@
 # Flow_Project3
 Project 2 - Minting NFT Collections on Flow Blockchain - made for METACRAFTERS Web 3 Course for the Flow blockchain.
 
-# Contract
-
 ## Description
 
 The CryptoPoops Contract is a smart contract deployed on the Flow blockchain, implementing the NonFungibleToken standard. It allows the creation, management, and transfer of unique CryptoPoop NFTs. Each CryptoPoop NFT has unique attributes including a name, favorite food, and lucky number. The contract provides functionality for minting new NFTs, transferring them between accounts, and querying owned NFTs.
